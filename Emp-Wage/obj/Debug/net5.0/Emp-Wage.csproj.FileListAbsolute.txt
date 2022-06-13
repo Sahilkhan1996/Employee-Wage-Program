@@ -1,0 +1,16 @@
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.exe
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.deps.json
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.runtimeconfig.json
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.runtimeconfig.dev.json
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.dll
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\bin\Debug\net5.0\Emp-Wage.pdb
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.csproj.AssemblyReference.cache
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.AssemblyInfoInputs.cache
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.AssemblyInfo.cs
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.csproj.CoreCompileInputs.cache
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.dll
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\refint\Emp-Wage.dll
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.pdb
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\Emp-Wage.genruntimeconfig.cache
+E:\Assignment c#\Day 3\Emp-Wage\Emp-Wage\obj\Debug\net5.0\ref\Emp-Wage.dll
