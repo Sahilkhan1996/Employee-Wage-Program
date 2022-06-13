@@ -9,25 +9,21 @@ namespace Emp_Wage
         static int parttimehour = 4;
 
         static void Main(string[] args)
-        {            
-            Random check = new Random();
-            int presentorabsent = check.Next(0, 2);
-            Console.WriteLine(presentorabsent);
-            if (presentorabsent == 1)
-            {
-                //Calculating daily wage of the Employee
-                Console.WriteLine("Emp is present");
-                int dailywage = fullday * wageperhour;
-                Console.WriteLine("Daily wage of the Emp is " + dailywage);
-                //Part time Emp wage Emp and wage
-                int parttimewage = parttimehour * wageperhour;
-                Console.WriteLine("Part time wage of the Emp is " + parttimewage);
+        {
+            int dailywage = fullday * wageperhour;
+            int fulltimeempwage = dailywage * 30;
+            int parttimewage = parttimehour * wageperhour;
+            Console.WriteLine(fulltimeempwage);
+            Random check1 = new Random();
+            int presentorabsent1 = check1.Next(0, 2);
+            Console.WriteLine(presentorabsent1);
 
-            }
-            else
+            switch (presentorabsent1)
             {
-                Console.WriteLine("Emp is absent");
+                case 1: Console.WriteLine("1Part time Emp wage: " + parttimewage); break;
+                case 2: Console.WriteLine("2Full time Empwage: " + fulltimeempwage); break;
             }
+
 
         }
     }
